@@ -1,4 +1,4 @@
-# 
+# Free AI Job Application Bot extensions. Featuring AI-security and natural-language-processing — optimized for maximum performance.
 
 
 
